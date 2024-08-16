@@ -20,3 +20,8 @@ frontend was hosted on a web server, while the backend was deployed to a platfor
 render. This decoupled deployment approach allowed for easy scalability and maintenance.
 
 ## Have a Look --->https://blog-web-3t65.onrender.com/blogs  
+## images
+![Screenshot (58)](https://github.com/user-attachments/assets/1e20313d-b819-4d30-b69f-fb9619d5ab25)
+
+![Screenshot (63)](https://github.com/user-attachments/assets/2182690b-6c77-4f3c-9d67-4b8af7f16433)
+
